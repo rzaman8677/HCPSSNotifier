@@ -68,7 +68,7 @@ $conn = null;
 		</div>
 	</nav>
 	<!-- About section -->
-    <div class="container-fluid bg-dark text-light py-5">
+    <div style="background-color: rgb(55, 57, 58);" class="container-fluid text-light py-5">
         <div class="row justify-content-center">
           <div class="col-md-6">
           <h2 id="aboutTitle">About Us</h2>
